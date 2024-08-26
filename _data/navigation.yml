@@ -10,5 +10,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "java"
+  - title: "BackEnd"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: HAN JEE JEUN
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
